@@ -1,10 +1,4 @@
-# Parcel React Template
+# The Better Parts
 
-Template project for parcel+react generated using [create-parcel-app](https://github.com/nerp-tech/create-parcel-app)
-
-Make sure to install Parcel globally:
-
-```
-yarn global add parcel-bundler
-```
-
+This is all according to Douglas Crockford from his
+presentation "The Better Parts".
